@@ -23,7 +23,7 @@ Forumoria is a simple, self-host and an open source project for your next forum.
 
 ## <a name="installation">Installation</a>
 
-1. `git clone https://github.com/propanto/forumoria`
+1. `git clone https://github.com/prpanto/forumoria`
 2. `composer install`
 3. `cp .env.example .env` and configure the `.env` file by your needs
 4. Set database configs on `.env` file
