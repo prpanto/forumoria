@@ -29,7 +29,7 @@ Forumoria is a simple, self-host and an open source project for your next forum.
 4. Set database configs on `.env` file
 5. `php artisan key:generate`
 6. `php artisan migrate --seed`
-7. Install `Meilisearch` on your machine from [here](https://www.meilisearch.com/docs/learn/getting_started/installation) and configure the `.env` file if needed
+7. Install `Meilisearch` on your machine from [here](https://www.meilisearch.com/docs/learn/getting_started/installation) and configure the `.env` file
 8. `pnpm i & pnpm run dev`
 
 ## <a name="license">License</a>
